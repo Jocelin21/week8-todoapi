@@ -19,7 +19,7 @@ class UpdateTodo(BaseModel):
 todoList = {
     1: Todo(title = "WebApp API", desc = "Build FAST API Todo List", due = "8 May 2023", status = "Completed"),
     2: Todo(title = "Games FP", desc = "Horror game", due = "15 May 2023", status = "On Going"),
-    3: Todo(title = "CompNet Forum", desc = "Clients ping each other", due = "15 May 2023", status = "On Going"),
+    3: Todo(title = "CompNet Forum", desc = "Clients ping each other", due = "15 May 2023", status = "On Going")
 }
 
 filteredList ={
